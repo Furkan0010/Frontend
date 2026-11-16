@@ -2,7 +2,7 @@
 
 TaskFlow Web, tarayıcıda çalışan basit bir görev yöneticisidir (TODO App). Görev ekleyebilir, listeleyebilir, düzenleyebilir ve silebilirsiniz. Veriler tarayıcının `localStorage` alanında saklanır, sayfa yenilense de kaybolmaz.
 
-**Canlı demo:** CANLI_LINK_BURAYA
+**Canlı demo:** https://super-dragon-b14146.netlify.app
 
 ## Ekran Görüntüsü
 
